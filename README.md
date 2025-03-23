@@ -15,4 +15,4 @@ Here are some info:
 - ⚡ Fun fact: first bug on a computers was a real moth!
 
 
-![image](./src/CA meme.jpg)
+![alt text](https://github.com/Mattew017/Mattew017/blob/main/src/CA%20meme.jpg?raw=true)
